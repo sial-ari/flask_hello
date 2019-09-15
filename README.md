@@ -1,5 +1,5 @@
 #Flask Foundation
-[![Build Status](https://travis-ci.org/JackStouffer/Flask-Foundation.png)](https://travis-ci.org/JackStouffer/Flask-Foundation)
+[![Build Status](https://travis-ci.org/sial-ari/flask_hello.svg?branch=master)](https://travis-ci.org/sial-ari/flask_hello)
 
 Documentation is located at [https://jackstouffer.github.io/Flask-Foundation/](https://jackstouffer.github.io/Flask-Foundation/)
 
